@@ -1,0 +1,17 @@
+{
+  "name": "flighttracker-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ar.js": "^1.6.2",
+    "express": "^4.16.4",
+    "gyronorm": "^2.0.6",
+    "nodemon": "^1.18.4"
+  }
+}
